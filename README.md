@@ -74,7 +74,7 @@ The good news is SmoochMediaBot is clever, and simplifies much of this!SmoochMed
 Read the JSON below and you'll see there are line breaks, an image, and 3 buttons in this bot's response.   
 
     {
-        "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)"
+         "BOT": "Hi there!\nI'm SmoochMediaBot. Here to help you craft a killer story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works: simply respond to my questions, backtap or say HUMAN at any time.\nWhat would you like to write about? %[Smooch](postback:smooch) %[Build Your Own Bot](postback:build_bot) %[Consumer Survey](postback:consumer_survey)"
     }
 
 ⚠️ **Note:** If you're not familiar with the JSON syntax you can always paste your script into http://jsonlint.com/ to make sure your syntax in order.
