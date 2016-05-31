@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI'm SmoochMediaBot. Here to help you craft a killer story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works: simply respond to my questions, backtap or say HUMAN at any time.\nWhat would you like to write about? %[Smooch](postback:smooch) %[Build Your Own Bot](postback:build_bot) %[Consumer Survey](postback:consumer_survey",
+    "BOT": "Hi there!\nI'm SmoochMediaBot. Here to help you craft a killer story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works: simply respond to my questions, backtap or say HUMAN at any time.\nWhat would you like to write about? %[Smooch](postback:smooch) %[Build Your Own Bot](postback:build_bot) %[Consumer Survey](postback:consumer_survey)",
     "SMOOCH": "Let's see if this works",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
