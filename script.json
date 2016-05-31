@@ -1,8 +1,9 @@
 {
-    "BOT": "Hi there!\nI'm SmoochMediaBot. Here to help you craft a killer story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works: simply respond to my questions, backtap or say HUMAN at any time.\nWhat would you like to write about? %[Smooch](postback:smooch) %[Build Your Own Bot](postback:build_bot) %[Consumer Survey](postback:consumer_survey)",
+    "BOT": "Hi there!\nI'm SmoochMediaBot. Here to help you craft a killer story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works: simply respond to my questions, backtap or say CONNECT if you'd like to connect by email.\nWhat would you like to write about? %[Smooch](postback:smooch) %[Build Your Own Bot](postback:build_bot) %[Consumer Survey](postback:consumer_survey)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "CONNECT":"Happy to! Email me at media@smooch.io. See you on the flip side.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "SMOOCH": "Cool. I’m always happy to chat about Smooch!\nWe simplify messaging so businesses can create better customer experiences.\nWe do this with easy interfaces, beautiful API + SDKs and rich messaging capabilities.\nCheck out our out-of-the-box messaging channels!\n![Plumbing](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Plumbing.png)\nClick on the image to zoom if it's too tiny.\nWhat would you like to learn next? %[Funding](postback:FUNDING) %[Traction](postback:traction) %[Team](postback:team)",
